@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Euro_Song.props" />
+</Project>

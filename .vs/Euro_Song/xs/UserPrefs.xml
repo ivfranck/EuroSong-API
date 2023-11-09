@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{185A835D-C461-485C-B594-3DF464F88622}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Euro_Song/Controllers/SongController.cs">
+    <Files>
+      <File FileName="Euro_Song/Controllers/Models/Song.cs" Line="11" Column="1" />
+      <File FileName="Euro_Song/Controllers/WeatherForecastController.cs" Line="16" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Euro_Song" expanded="True">
+            <Node name="Euro_Song" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="Models" expanded="True" />
+                <Node name="SongController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Euro__Song PreferredExecutionTarget="/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
